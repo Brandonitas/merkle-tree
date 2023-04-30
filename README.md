@@ -2,6 +2,11 @@
 
 In this project I use merke tree algorithm to find if the name deserve a gift
 
+### Final result
+
+![Final result 1](https://github.com/Brandonitas/merkle-tree/blob/main/finalResultMerkleTree1.png)
+![Final result 2](https://github.com/Brandonitas/merkle-tree/blob/main/finalResultMerkleTree2.png)
+
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
