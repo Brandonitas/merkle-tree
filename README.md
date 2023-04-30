@@ -1,6 +1,6 @@
 # Description
 
-In this project I use merke tree algorithm to find if the name deserve a gift
+In this project I use merkle tree algorithm to find if the name deserve a gift
 
 ### Final result
 
